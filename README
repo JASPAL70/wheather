@@ -1,0 +1,19 @@
+🌤️ Weather App
+A simple weather application that allows users to check real-time weather conditions for any city using the OpenWeatherMap API. Built with HTML, CSS, and JavaScript, the app is designed to be fully responsive on all devices.
+
+🚀 Features
+✅ Fetch real-time weather updates
+✅ Displays temperature, humidity, and weather conditions
+✅ User-friendly interface
+✅ Fully responsive (mobile, tablet, and desktop)
+✅ Lightweight and fast
+
+🖥️ Responsive Design
+The app is designed with mobile-first principles and works seamlessly on all devices.
+
+Key Techniques Used:
+✅ CSS Flexbox & Grid for layout
+✅ Media Queries for responsiveness
+✅ Viewport Meta Tag for mobile compatibility
+
+
